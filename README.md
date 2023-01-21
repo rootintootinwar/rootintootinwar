@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)]
+![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
 <h1 align="center">Hi 👋, I'm N Lisandeen</h1>
 <h3 align="center">A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.</h3>
-<img align="right" alt="Coding" width="400" src="[http://img0.joyreactor.com/pics/post/moonlight-gif-kirokaze-stars-3088561.gif](https://64.media.tumblr.com/c6f70187569e2c2d97c5fe85399a65cb/tumblr_pyhdzyXOIp1we9f2ro1_540.gifv)">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c6f70187569e2c2d97c5fe85399a65cb/tumblr_pyhdzyXOIp1we9f2ro1_540.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootintootinwar&label=Profile%20views&color=0e75b6&style=flat" alt="rootintootinwar" /> </p>
 
